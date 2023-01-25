@@ -1,0 +1,1 @@
+web: gunicorn lombardy.wsgi --log-file -
